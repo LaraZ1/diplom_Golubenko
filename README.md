@@ -1,1 +1,1 @@
-# diplom_Golubenko
+#Дипломная работа
